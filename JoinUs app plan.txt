@@ -1,0 +1,5 @@
+1) use amplify to host web app
+2) build node and express app locally
+3) use git as scm
+4) terraform for Iac
+5) lambda as backend
